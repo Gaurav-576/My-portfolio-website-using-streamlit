@@ -1,0 +1,2 @@
+streamlit-lottie
+streamlit-javascript
